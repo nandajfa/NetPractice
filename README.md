@@ -78,6 +78,7 @@ You're sections headers will be used to reference location of destination.
  * [CIDR](https://www.youtube.com/watch?v=C4bLhePgNSg)
  * [Subnet Mask - Explained](https://www.youtube.com/watch?v=s_Ntt6eTn94)
  * [Calculator](https://www.adminsub.net/ipv4-subnet-calculator/192.168.0.1/255.255.255.0)
+ * [Network](https://www.youtube.com/watch?v=0XnjQac4jP8&list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp)
  
 ---
 
@@ -88,10 +89,16 @@ You're sections headers will be used to reference location of destination.
 
 ---
 
-#### Author
+  ## Author
+ 
+ | [<img src="https://avatars.githubusercontent.com/u/80687429?v=4" width=115><br><sub>Jessica Fernanda</sub>](https://github.com/nandajfa) |
+ | :---: |
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-Jessica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-fernanda-106651205)](https://www.linkedin.com/in/jessica-fernanda-106651205) 
+[![Gmail Badge](https://img.shields.io/badge/-nanda.jfa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.jfa@gmail.com)](mailto:nanda.jfa@gmail.com)
 
-* Jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-106651205) <br />
 
+</div>
 <div align="right">
   <b><a href="#index">↥ back to top</a></b>
 </div>
