@@ -1,9 +1,12 @@
 <h1 align="center">
-	42cursus' NetPractice
+	<img alt="badge net" src="./netpractice_dark.svg" />
  </h1>
  
+  <div align="center">
+  
   [![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandajfa/NetPractice/blob/main/LICENSE)
  
+  </div>
  
  ### 🗣️ About
 
